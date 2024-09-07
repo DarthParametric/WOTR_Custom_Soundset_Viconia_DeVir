@@ -1,0 +1,14 @@
+﻿{
+	"Id": "PC_Female_BG_Viconia",
+	"DisplayName": "PC Female Viconia DeVir Soundset",
+	"Author": "DarthParametric",
+	"Version": "1.0.0",
+    "GameVersion": "2.4.0",
+    "ManagerVersion": "0.28.2",
+	"Requirements": [],
+    "LoadAfter": [],
+	"AssemblyName": "PC_Female_BG_Viconia.dll",
+	"EntryMethod": "PC_Female_BG_Viconia.Main.Load",
+	"HomePage": "https://github.com/DarthParametric/WOTR_Custom_Soundset_Viconia_DeVir",
+	"Repository": "https://raw.githubusercontent.com/DarthParametric/WOTR_Custom_Soundset_Balthasar_Gelt/master/PC_TWWH_Balthasar_Gelt/Repository.json"
+}
