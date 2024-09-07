@@ -12,9 +12,9 @@ Also includes a custom portrait set, if required.
 1. Drag the mod zip into Unity Mod Manager.
 1. Run your game.
 1. There is an optional setting in UMM that allows you to adjust the frequency of the movement barks, as these are quite infrequent by default:
-   <p align="center"><img src="img/Viconia_Soundset_UMM_Options.png?raw=true" alt="UMM bark config options screenshot"/></p>
+   <p align="center"><img src="img/Viconia_Soundset_UMM_Options.png?raw=true" alt="UMM bark config options screenshot" width="500" height="115"/></p>
 1. The custom soundset will appear in the character creator Voice list for females after all the vanilla soundsets:
-   <p align="center"><img src="img/Viconia_Soundset_Character_Creator_List.png?raw=true" alt="Character creator voice selection screenshot"/></p>
+   <p align="center"><img src="img/Viconia_Soundset_Character_Creator_List.png?raw=true" alt="Character creator voice selection screenshot" width="288" height="400"/></p>
 
 # Notes
 - Certain lines may be overly loud due to the nature of the source audio and the normalisation process. Please report anything obnoxious so it can be manually adjusted.
