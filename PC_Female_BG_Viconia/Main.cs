@@ -1,15 +1,9 @@
-﻿using HarmonyLib;
-using Kingmaker.Blueprints;
+﻿using Kingmaker.Blueprints;
 using Kingmaker.Blueprints.JsonSystem;
 using Kingmaker.Blueprints.Root;
 using Kingmaker.Localization;
 using Kingmaker.Sound;
 using Kingmaker.Visual.Sound;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
-using System.Reflection;
-using System;
 using UnityEngine;
 using static UnityModManagerNet.UnityModManager;
 

@@ -78,7 +78,7 @@
 			<PropsFile Include="GamePath.props" />
 		</ItemGroup>
 		<ItemGroup>
-			<ExportDir Include="$(SolutionDir)Export\*.zip" />
+			<ExportDir Include="$(SolutionDir)Export\$(AssemblyName)_v$(Version).zip" />
 		</ItemGroup>
 		
 		<Delete Files="@(PropsFile);@(ExportDir)" />
