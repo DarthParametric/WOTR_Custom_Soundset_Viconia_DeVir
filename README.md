@@ -10,7 +10,7 @@ Also includes a custom portrait set, if required.
 
 # Install
 1. Download and install [Unity Mod Manager](https://www.nexusmods.com/site/mods/21) and set it up for WOTR ("Pathfinder Second Adventure").
-1. Download [PC Female Viconia DeVir Soundset](https://github.com/DarthParametric/WOTR_Custom_Soundset_Viconia_DeVir/releases/latest).
+1. Download the latest version of the mod from [Github](https://github.com/DarthParametric/WOTR_Custom_Soundset_Viconia_DeVir/releases/latest) or [Nexus Mods](https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/712).
 1. Drag the mod zip into Unity Mod Manager.
 1. Run your game.
 1. There is an optional setting in UMM that allows you to adjust the frequency of the movement barks, as these are quite infrequent by default:
