@@ -6,7 +6,7 @@ A mod for Owlcat's Pathfinder: Wrath of the Righteous.
 
 Adds a custom, standalone soundset for female PCs and mercenaries in Wrath of the Righteous. Does not overwrite or replace any of the vanilla soundsets.
 
-Also includes a custom portrait set, if required.
+Also provides a [custom portrait set](https://github.com/DarthParametric/WOTR_Custom_Soundset_Viconia_DeVir/releases/latest/download/Portraits.zip), if required.
 
 # Install
 1. Download and install [Unity Mod Manager](https://www.nexusmods.com/site/mods/21) and set it up for WOTR ("Pathfinder Second Adventure").
